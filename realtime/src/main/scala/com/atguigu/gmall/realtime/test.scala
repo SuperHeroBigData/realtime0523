@@ -7,6 +7,8 @@ package com.atguigu.gmall.realtime
 */
 object test {
   def main(args: Array[String]): Unit = {
+    println("copy from github")
     println("trump will win the president ")
   }
+
 }
