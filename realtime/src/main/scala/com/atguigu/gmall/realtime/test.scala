@@ -6,5 +6,7 @@ package com.atguigu.gmall.realtime
 @desc $  
 */
 object test {
-
+  def main(args: Array[String]): Unit = {
+    println("trump will win the president ")
+  }
 }
